@@ -1,0 +1,63 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #630808;
+    margin: 0%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+    font-style:initial;
+  }
+
+  p{
+    color: black;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  h1{
+    color: #000000;
+    text-align: center;
+    font-size: 33px;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  img{
+    width:500px;
+    height: 1000px;
+    object-fit: cover;
+    margin-left:400px;
+    margin-bottom: 50px;
+  }
+.bac{
+  background-color:rgba(173, 6, 48, 0.897);
+  margin-top: 2px;
+}
+.bacx{
+  background-color:rgba(173, 6, 48, 0.897);
+
+}
+.Fundo{
+background-color: #630808;
+}
+  
